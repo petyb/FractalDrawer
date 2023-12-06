@@ -7,8 +7,9 @@ This is a Windows Forms C# app, which renders fractal using Mandelbrot set. Also
 
 ## Zooming
 If you select a certain area, the fractal will be redrawn:
-![image](https://github.com/petyb/FractalDrawer/assets/59206467/b3b2ba1c-f170-4339-bc58-caffd3160eb4)
-![image](https://github.com/petyb/FractalDrawer/assets/59206467/b73894ba-a319-4ec9-b2bb-af529dfbc5ee)
+![image](https://github.com/petyb/FractalDrawer/assets/59206467/d99f7b29-da8a-4814-86f0-0113b75092b7)
+![image](https://github.com/petyb/FractalDrawer/assets/59206467/afe6f127-5407-42dc-9956-205bae4852e9)
+
 You can keep doing it infinitely
 
 To change the form of fractal, you can change variable `c` in the code. In comments there are several values that generate other beautiful fractals.
